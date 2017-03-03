@@ -1,0 +1,7 @@
+#Fri Mar 03 09:15:55 GMT 2017
+base.0=/home/padraigcurtin/AndroidStudioProjects/DesktopDerbyProj/aRSimpleInteraction/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_9cad2d49cbf178d11f4470677e72ef0bdd6f1d9b
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=/home/padraigcurtin/AndroidStudioProjects/DesktopDerbyProj/aRSimpleInteraction/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_cef3f8c456f41bac3bf0f80b2c4a6222274ba1c3/classes.dex
+base.1=/home/padraigcurtin/AndroidStudioProjects/DesktopDerbyProj/aRSimpleInteraction/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_cef3f8c456f41bac3bf0f80b2c4a6222274ba1c3
+file.0=/home/padraigcurtin/AndroidStudioProjects/DesktopDerbyProj/aRSimpleInteraction/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_9cad2d49cbf178d11f4470677e72ef0bdd6f1d9b/classes.dex

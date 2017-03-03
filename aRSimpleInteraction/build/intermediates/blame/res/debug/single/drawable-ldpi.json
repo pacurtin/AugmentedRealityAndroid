@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/home/padraigcurtin/AndroidStudioProjects/ARSimpleInteractionProj/aRSimpleInteraction/build/intermediates/res/merged/debug/drawable-ldpi/icon.png",
+        "source": "/home/padraigcurtin/AndroidStudioProjects/ARSimpleInteractionProj/aRSimpleInteraction/src/main/res/drawable-ldpi/icon.png"
+    },
+    {
+        "merged": "/home/padraigcurtin/AndroidStudioProjects/DesktopDerbyProj/aRSimpleInteraction/build/intermediates/res/merged/debug/drawable-ldpi/icon.png",
+        "source": "/home/padraigcurtin/AndroidStudioProjects/DesktopDerbyProj/aRSimpleInteraction/src/main/res/drawable-ldpi/icon.png"
+    }
+]

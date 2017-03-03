@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/home/padraigcurtin/AndroidStudioProjects/ARSimpleInteractionProj/aRSimpleInteraction/build/intermediates/res/merged/debug/xml/preferences.xml",
+        "source": "/home/padraigcurtin/AndroidStudioProjects/ARSimpleInteractionProj/aRSimpleInteraction/build/intermediates/exploded-aar/ARSimpleInteractionProj/aRBaseLib/unspecified/res/xml/preferences.xml"
+    },
+    {
+        "merged": "/home/padraigcurtin/AndroidStudioProjects/DesktopDerbyProj/aRSimpleInteraction/build/intermediates/res/merged/debug/xml/preferences.xml",
+        "source": "/home/padraigcurtin/AndroidStudioProjects/DesktopDerbyProj/aRSimpleInteraction/build/intermediates/exploded-aar/DesktopDerbyProj/aRBaseLib/unspecified/res/xml/preferences.xml"
+    }
+]
